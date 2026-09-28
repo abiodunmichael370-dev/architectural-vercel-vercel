@@ -1,0 +1,9 @@
+{
+  "name": "tomzy-architectural-site",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@neondatabase/serverless": "latest",
+    "raw-body": "latest"
+  }
+}
