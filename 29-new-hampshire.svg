@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="420" viewBox="0 0 600 420">
+<rect width="600" height="420" rx="24" fill="#f4f2eb"/>
+<circle cx="300" cy="205" r="155" fill="none" stroke="#13233a" stroke-width="8"/>
+<circle cx="300" cy="205" r="137" fill="none" stroke="#7bdc3b" stroke-width="3"/>
+<text x="300" y="135" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="4" fill="#13233a">PROFESSIONAL ENGINEER</text>
+<text x="300" y="198" text-anchor="middle" font-family="Arial,sans-serif" font-size="34" font-weight="800" fill="#13233a">NEW HAMPSHIRE</text>
+<text x="300" y="245" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" letter-spacing="3" fill="#4d5967">STATE REFERENCE</text>
+<text x="300" y="286" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" letter-spacing="2" fill="#7a8490">SAMPLE • NOT AN OFFICIAL SEAL</text>
+<text x="300" y="380" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" letter-spacing="2" fill="#7a8490">TOMZY ARCHITECTURAL • STATE COVERAGE</text>
+</svg>
